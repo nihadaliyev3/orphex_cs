@@ -41,3 +41,6 @@ This project is a Django application designed for analyzing and reporting on use
    cd analytics_api
    python manage.py runserver
    ```
+   
+## Results
+   PDF files of results of API requests are api_results directory.
